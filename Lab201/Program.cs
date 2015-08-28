@@ -1,15 +1,10 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Lab201;
 
 
-namespace Lab201
-    
+namespace Lab20_1
+
 {
-	class MainClass
+    class MainClass
 	{
 		public static void Main (string[] args)
 		{
