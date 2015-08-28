@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Lab201;
+using Lab2_01;
 
 
-namespace Lab201
+namespace Lab2_01
     
 {
 	class MainClass
